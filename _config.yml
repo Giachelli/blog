@@ -16,12 +16,12 @@ description:         'description'
 url:                 "https://lensooni.it"
 rss:                 rss feed url
 baseurl:             '/blog'
-baseurl_posts_img:   '/assets/images/posts/'
-baseurl_featured_img: '/assets/images/hero/'
-baseurl_featured_thumbnail: '/assets/images/thumbnail/'
-baseurl_javascripts: '/assets/javascripts/'
+baseurl_posts_img:   '/blog/assets/images/posts/'
+baseurl_featured_img: '/blog/assets/images/hero/'
+baseurl_featured_thumbnail: '/blog/assets/images/thumbnail/'
+baseurl_javascripts: '/blog/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+             
 
 author:
   name:           	 your name
