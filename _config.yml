@@ -10,12 +10,12 @@ permalink:           /:title
 timezone:            Europe/Rome # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:				         Lensooni
-title:               prova
+title:               blog
 tagline:             'tagline'
 description:         'description'
 url:                 "https://lensooni.it"
 rss:                 rss feed url
-baseurl:             '/prova'
+baseurl:             '/blog'
 baseurl_posts_img:   'assets/images/posts/'
 baseurl_featured_img: 'assets/images/hero/'
 baseurl_featured_thumbnail: 'assets/images/thumbnail/'
