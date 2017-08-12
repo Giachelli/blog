@@ -7,7 +7,7 @@ excerpt: "Ti starai chiedendo per quale motivo dovresti utilizzare Lensooni anzi
 categories: business
 tags:  disney
 image:
-  feature: postLensooni.jpeg
+  feature: prova.png
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
