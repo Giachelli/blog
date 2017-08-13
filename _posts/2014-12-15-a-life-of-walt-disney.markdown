@@ -9,8 +9,8 @@ tags:  disney
 image:
   feature: prova.png
   topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: darker
+bgContrast: light
+bgGradientOpacity: lighter
 syntaxHighlighter: no
 ---
 
