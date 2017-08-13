@@ -4,6 +4,7 @@
   {% include head.html %}
   
   <body id="page-top">
+	   <a href= "{{page.url}}">{{page.url}}</a> 
     {% if page.url !="blog/" %}
       <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
       {% include sidebar-nav.html %}
