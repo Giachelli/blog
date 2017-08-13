@@ -2,9 +2,10 @@
 <html lang="en-us" class="no-js">
 
   {% include head.html %}
-
+  {% assign baseUrl= "https://lensooni.it/blog/" %}
+  
   <body id="page-top">
-    {% if page.url != site.baseUrl %}
+    {% if page.url != baseUrl %}
       <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
       {% include sidebar-nav.html %}
       {% include menu.html %}
@@ -12,11 +13,11 @@
 
     {{ content }}
 
-    {% if page.url != site.baseUrl %}
+    {% if page.url != baseUrl %}
       {% include sidebar-toggle.html %}
     {% endif %}
 
-    {% if page.url == site.baseUrl %}
+    {% if page.url == baseUrl %}
       {% include subscribe.html %}
       {% include footer.html %}
     {% endif %}
