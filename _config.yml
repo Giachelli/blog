@@ -16,6 +16,7 @@ description:         'description'
 url:                 "https://lensooni.it"
 rss:                 rss feed url
 baseurl:             '/blog'
+baseUrl:             '/blog/'
 baseurl_posts_img:   'assets/images/posts/'
 baseurl_featured_img: 'assets/images/hero/'
 baseurl_featured_thumbnail: 'assets/images/thumbnail/'
