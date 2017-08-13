@@ -4,7 +4,6 @@
   {% include head.html %}
   
   <body id="page-top">
-	   <a href= "{{page.url}}">{{page.url}}</a> 
     {% if page.url !="/" %}
       <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
       {% include sidebar-nav.html %}
@@ -25,7 +24,4 @@
     {% include footer-scripts.html %}
   </body>
   <script id="dsq-count-scr" src="//giac.disqus.com/count.js" async></script>
-  <script type="text/javascript">
-	  console.log ("page.url", page.url);
-  </script>  
 </html>
