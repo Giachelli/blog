@@ -1654,13 +1654,13 @@ body {
 
 .section--frontpage,
 .section--frontpage ~ .post-featuredImage {
-  height: 18rem;
+  height: 10rem;
 }
 
 @media (max-width: 767px) {
   .section--frontpage,
   .section--frontpage ~ .post-featuredImage {
-    height: 15rem;
+    height: 10rem;
   }
 }
 
