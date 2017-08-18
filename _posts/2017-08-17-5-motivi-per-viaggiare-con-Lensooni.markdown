@@ -17,4 +17,3 @@ syntaxHighlighter: no
 Ti starai chiedendo per quale motivo dovresti utilizzare lens.
 
 
-2014-12-15-a-life-of-walt-disney.markdown
