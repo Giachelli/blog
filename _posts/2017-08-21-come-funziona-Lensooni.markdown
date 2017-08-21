@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La filosofia di Lensooni"
+title:  "Come funziona Lensooni"
 date:   2017-08-21 18.00.00
 last_modified_at:  2017-08-17 12:33:00
 excerpt: "Ti starai chiedendo per quale motivo dovresti utilizzare Lensooni anziché un altro servizio di alloggio..."
