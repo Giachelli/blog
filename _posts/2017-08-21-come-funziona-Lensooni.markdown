@@ -15,7 +15,7 @@ syntaxHighlighter: no
 ---
 
 
-Luca è uno **studente universitario** che studia a Bologna e che nel weekend vorrebbe visitare Torino. Purtoppo Luca viene da un periodo in cui ha dovuto sostenere molte spese e quindi la visita a Torino graverebbe ulteriormente sulla sua, oramai decimata, cassa. Ma lui a a Torino vuole andarci ugualmente e comincia a prendere in esame le varie soluzioni. Vorrebbe tanto avere un amico che studi nella metropoli piemontese ma purtroppo non c'è nessuno. Allora Luca decide di utilizzare **Lensooni**.
+Luca è uno **studente universitario** che studia a Bologna e che nel weekend vorrebbe visitare Torino. Purtoppo Luca viene da un periodo in cui ha dovuto sostenere molte spese e quindi la visita a Torino graverebbe ulteriormente sulla sua, oramai decimata, cassa. Ma lui a Torino vuole andarci ugualmente e comincia a prendere in esame le varie soluzioni. Vorrebbe tanto avere un amico che studi nella metropoli piemontese ma purtroppo non c'è nessuno. Allora Luca decide di utilizzare **Lensooni**.
 
 <div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/post1.png);"></div>
 
