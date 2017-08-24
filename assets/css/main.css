@@ -577,6 +577,20 @@ body {
     height: 33px;
     top: 99px;
   }
+  
+  .img_1 {
+  margin-top: 1.5rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% 100%;
+}
+
+.img_1--fullContainer img {
+  width: 100%;
+}
+.img--Leading{
+	height: 10rem;
+};
 }
 
 * {
@@ -2507,9 +2521,19 @@ body {
     width: 16.66%;
     height: 60px;
   }
-  .full-background {
-	  background-size: cover;
-  }
+  .img_1 {
+  margin-top: 1.5rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.img_1--fullContainer img {
+  width: 100%;
+}
+.img--Leading{
+	height: 10rem;
+};
 }
 
 @media (max-width: 767px) {
@@ -2773,11 +2797,19 @@ body {
     display: block !important;
   };
   
-  .full-background{
-	  background-attachment: scroll;
-        background-position: center center;
-        background-size: cover;
-  };
+  .img_1 {
+  margin-top: 1.5rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.img_1--fullContainer img {
+  width: 100%;
+}
+.img--Leading{
+	height: 10rem;
+};
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -2847,11 +2879,19 @@ body {
     display: block !important;
   }
   
-  .full-background{
-	  background-size: 100% 100%;
-        background-attachment: fixed;
-        background-position: center center  
-        };
+  .img_1 {
+  margin-top: 1.5rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% 100%;
+}
+
+.img_1--fullContainer img {
+  width: 100%;
+}
+.img--Leading{
+	height: 10rem;
+};
 }
 
 @media (min-width: 1200px) {
@@ -3152,13 +3192,18 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 
 @media (min-width:1900px) {
-.full-background{
-	background-attachment: fixed;
-        background-position: center center;
-        background-size: 100% 100%
-     -webkit-background-size: 100% 100%;
-        -moz-background-size: 100% 100%;
-        -o-background-size: 100% 100%
+  .img_1 {
+  margin-top: 1.5rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% 100%;
+}
+
+.img_1--fullContainer img {
+  width: 100%;
+}
+.img--Leading{
+	height: 10rem;
 };
 };
 
