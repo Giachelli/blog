@@ -3,7 +3,7 @@ layout: post
 title:  "Come funziona Lensooni"
 date:   2017-08-21 18.00.00
 last_modified_at:  2017-08-17 12:33:00
-excerpt: "Ti starai chiedendo per quale motivo dovresti utilizzare Lensooni anziché un altro servizio di alloggio..."
+excerpt: "Luca è uno studente universitario che studia a Bologna e che nel weekend..."
 categories: business
 tags:  viaggio
 image:
