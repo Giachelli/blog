@@ -27,3 +27,4 @@ Nonostante l'esperienza di viaggio di Luca sia finita, siamo sicuri che una **nu
 
 ### E tu, cosa aspetti a partire?  
 
+Iscriviti alla newsletter alla pagina [http://www.lensooni.it](www.lensooni.it) per cominciare ad utilizzare Lensooni!
