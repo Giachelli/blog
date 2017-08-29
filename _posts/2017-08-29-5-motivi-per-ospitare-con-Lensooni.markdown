@@ -40,7 +40,7 @@ Può suonare strano ma questi ragazzi **non volevano che persone di qualsiasi et
 
 ### 4. Marco e i suoi coinquilini volevano trovare facilmente qualcuno con questi requisiti
 
-Pubblicando l'annuncio su Lensooni, avrebbero *trovato sicuramente qualcuno*. Infatti, erano anche sicuri del fatto che **c'è sempre qualche studente che ha bisogno di spostarsi e non può affrontare grandi esborsi per pagare un hotel o altro**
+Pubblicando l'annuncio su Lensooni, avrebbero **trovato sicuramente qualcuno**. Infatti, erano sicuri del fatto che **c'è sempre qualche studente che ha bisogno di spostarsi e non può affrontare grandi esborsi per pagare un hotel o altro**
 
 <div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/qualsiasiposto.png);"></div>
 
