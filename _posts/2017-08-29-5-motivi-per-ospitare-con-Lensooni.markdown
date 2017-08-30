@@ -14,42 +14,32 @@ bgGradientOpacity: lighter
 syntaxHighlighter: no
 ---
 
-Nei giorni seguenti l'aver alloggiato a Torino da Marco (**[Capitolo I. Come funziona Lensooni](http://www.lensooni.it/blog/come-funziona-Lensooni)**), Luca si trova nella sua casa a Bologna e comincia a pensare sul perché il suo nuovo amico torinese abbia scelto Lensooni per condividere il posto che aveva disponibile.
-Dopo qualche spremuta di meningi, individua in **5 motivi principali** le cause che hanno portato Marco ad ospitarlo:
+Dopo aver alloggiato a Torino da Marco (**[Capitolo I. Come funziona Lensooni](http://www.lensooni.it/blog/come-funziona-Lensooni)**), Luca, nella sua casa a Bologna, comincia a pensare sul perché il suo nuovo amico torinese avesse scelto Lensooni per condividere il posto che aveva disponibile. 
+Dopo una lunga riflessione, ha individuato i **5 motivi principali** che hanno portato Marco ad ospitarlo:
 
-<div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/liquidità.png);"></div>
+<div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/liquidità_1-min.png);"></div>
 
-### 1. Marco e i suoi coinquilini avevano bisogno di liquidità per pagare una bolletta
+E già, è proprio così: il **bisogno di liquidità** per fronteggiare tutte le spese che una casa deve sostenere: affitto mensile, costi per l’Università, i mezzi, il carovita e le bollette rendono difficile l’arrivo a fine a mese .  Ma c’è un modo **per avere qualche banconota in più**? C’è un modo per **ottenere denaro da un’attività piacevole come l’ospitare un coetaneo**? Con **Lensooni**, Marco e i suoi coinquilini si sono assicurati qualche decina di euro dalla permanenza di Luca e questo ha permesso loro di poter agevolmente fronteggiare le spese a cui andavano incontro;
 
-E già, è proprio così: il **bisogno di liquidità** per fronteggiare tutte le spese che una casa deve sostenere. Tra l'affitto mensile, i costi per l'Università, i mezzi e il costo della vita, quando si deve far i conti anche con le bollette allora la situazione diventa "drammatica". Con qualche sacrificio si arrivano a coprire tutte le spese, ma se si potessero coprire più facilmente? Se si potesse **avere più budget per fare le cose che ci piacciono fare**? Non darebbe sollievo il fatto di **aver coperto una spesa senza aver fatto uscire nulla dalla propria cassa**? 
-Con **Lensooni**, Marco e i suoi coinquilini si sono assicurati qualche decina di euro dalla permanenza di Luca e questo ha permesso loro di poter agevolmente fronteggiare le spese a cui andavano incontro;
+<div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/nuovaconoscenza_1-min.png);"></div>
 
-<div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/nuovaconoscenza.png);"></div>
+Quando hanno deciso di condividere quel posto hanno pensato: “ma è possibile unire l’utile al dilettevole? **E’ possibile ospitare qualcuno che non si conosce e trovarcisi bene condividendo del tempo ed esperienze**?” La risposta a ciò è alla base della filosofia di Lensooni: **mettere in contatto studenti che vogliono viaggiare e fare un'esperienza universitaria diversa in Italia con studenti disposti ad ospitarli e a fargli vivere una nuova realtà**;
 
-### 2. Marco e i suoi coinquilini avevano un posto libero in casa e volevano occuparlo conoscendo una persona simile a loro
+<div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/circuitouniv_1-min.png);"></div>
 
-Quando hanno deciso di condividere quel posto hanno pensato: "ma è possibile unire l'utile al dilettevole? **E' possibile ospitare qualcuno che non si conosce e trovarcisi bene condividendo del tempo ed esperienze?**" La risposta a questa domanda è stata inquadrata nella filosofia di Lensooni, **mettere in contatto studenti che vogliono viaggiare e fare un'esperienza universitaria diversa in Italia con studenti disposti ad ospitarli e a fargli vivere una nuova realtà**;
+Può suonare strano ma questi ragazzi non volevano che **persone di qualsiasi età** potessero prenotare quel posto in casa. Avevano voglia di condividerlo con uno **studente come loro**, **coetaneo**, così da poter più facilmente instaurare una **nuova amicizia** e avere la **possibilità di condividere più cose**;
 
-<div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/circuitouniv.png);"></div>
+<div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/facilità_1-min.png);"></div>
 
-### 3. Marco e i suoi coinquilini volevano che la persona ospitata appartenesse al circuito universitario
+Pubblicando l’annuncio su Lensooni, **avrebbero trovato sicuramente qualcuno**. Erano sicuri che ci fosse **sempre qualche studente con la voglia  di spostarsi senza affrontare grandi esborsi per pagare un hotel o altro**;
 
-Può suonare strano ma questi ragazzi **non volevano che persone di qualsiasi età potessero prenotare quel posto in casa**. Avevano voglia di condividerlo con uno **studente come loro**, con un **coetaneo**, così da poter più facilmente **instaurare una nuova amicizia e avere la possibilità di condividere più cose**;
+<div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/qualsiasiposto_1-min.png);"></div>
 
-<div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/facilità.png);"></div>
+Quanti studenti sarebbero disposti a dormire, per brevi periodi, anche su un **divano** o un in un **sacco a pelo** avendo la sicurezza che per questa soluzione la spesa è minima? **Sicuramente molti**! Inoltre per Marco era importante **cominciare ad ospitare il prima possibile** affinché aumentassero sia i **feedback positivi** sulla propria casa, sia le **possibilità di condividere qualsiasi posto libero ricevendo adesioni**. Il fatto di **non dover per forza offrire un letto** avrebbe permesso loro di ospitare in **qualsiasi momento** essendo più **semplice** avere un **divano disponibile o un posto per un sacco a pelo**;
 
-### 4. Marco e i suoi coinquilini volevano trovare facilmente qualcuno con questi requisiti
-
-Pubblicando l'annuncio su Lensooni, avrebbero **trovato sicuramente qualcuno**. Infatti, erano sicuri del fatto che **c'è sempre qualche studente che ha bisogno di spostarsi e non può affrontare grandi esborsi per pagare un hotel o altro**
-
-<div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/qualsiasiposto.png);"></div>
-
-### 5. Marco e i suoi coinquilini sapevano che avrebbero potuto condividere qualsiasi posto
-
-Quanti studenti sarebbero disposti a dormire, per brevi periodi, anche su un **divano** o un in un **sacco a pelo** avendo la sicurezza che per questa soluzione la spesa è minima? **Sicuramente molti**! Era importante **cominciare ad ospitare il prima possibile** in modo da accrescere sia **feedback positivi** sulla propria casa, sia la **possibilità di condividere qualsiasi posto libero ricevendo adesioni**. Questo avrebbe permesso loro di **ospitare in qualsiasi momento** essendo **più semplice** avere un divano disponibile o un posto per un sacco a pelo piuttosto che un letto;
 
 Questi per Luca erano i 5 motivi principali per cui il suo nuovo amico avesse condiviso la sua casa su Lensooni. 
 
 ### E tu, sei d'accordo con Luca?
 
-Rispondi alla domanda nei **commenti sottostanti**, di la tua!
+Rispondi alla domanda nei **commenti sottostanti** e dì la tua!
