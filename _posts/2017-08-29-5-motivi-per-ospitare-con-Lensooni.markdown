@@ -23,7 +23,7 @@ E già, è proprio così: il **bisogno di liquidità** per fronteggiare tutte 
 
 <div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/nuovaconoscenza_1-min.png);"></div>
 
-Quando hanno deciso di condividere quel posto hanno pensato: “ma è possibile unire l’utile al dilettevole? **E’ possibile ospitare qualcuno che non si conosce e trovarcisi bene condividendo del tempo ed esperienze**?” La risposta a ciò è alla base della filosofia di Lensooni: **mettere in contatto studenti che vogliono viaggiare e fare un'esperienza universitaria diversa in Italia con studenti disposti ad ospitarli e a fargli vivere una nuova realtà**;
+Quando hanno deciso di condividere quel posto hanno pensato: “ma è possibile unire l’utile al dilettevole? **E’ possibile ospitare uno sconosciuto e trovarcisi bene condividendo del tempo ed esperienze**?” La risposta a ciò è alla base della filosofia di Lensooni: **mettere in contatto studenti che vogliono viaggiare e fare un'esperienza universitaria diversa in Italia con studenti disposti ad ospitarli e a fargli vivere una nuova realtà**;
 
 <div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/circuitouniv_1-min.png);"></div>
 
@@ -31,11 +31,11 @@ Può suonare strano ma questi ragazzi non volevano che **persone di qualsiasi e
 
 <div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/facilità_1-min.png);"></div>
 
-Pubblicando l’annuncio su Lensooni, **avrebbero trovato sicuramente qualcuno**. Erano sicuri che ci fosse **sempre qualche studente con la voglia  di spostarsi senza affrontare grandi esborsi per pagare un hotel o altro**;
+Pubblicando l’annuncio su Lensooni, sapevano che **avrebbero trovato sicuramente qualcuno**. poiché ci sarebbe stato **sempre qualche studente con la voglia  di spostarsi senza affrontare grandi esborsi per pagare un hotel o altro**;
 
 <div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/qualsiasiposto_1-min.png);"></div>
 
-Quanti studenti sarebbero disposti a dormire, per brevi periodi, anche su un **divano** o un in un **sacco a pelo** avendo la sicurezza che per questa soluzione la spesa è minima? **Sicuramente molti**! Inoltre per Marco era importante **cominciare ad ospitare il prima possibile** affinché aumentassero sia i **feedback positivi** sulla propria casa, sia le **possibilità di condividere qualsiasi posto libero ricevendo adesioni**. Il fatto di **non dover per forza offrire un letto** avrebbe permesso loro di ospitare in **qualsiasi momento** essendo più **semplice** avere un **divano disponibile o un posto per un sacco a pelo**;
+Quanti studenti sarebbero disposti a dormire, per brevi periodi, anche su un **divano** o un in un **sacco a pelo** avendo la sicurezza che per questa soluzione la **spesa è minima**? **Sicuramente molti**! Inoltre per Marco era importante **cominciare ad ospitare il prima possibile** affinché aumentassero sia i **feedback positivi** sulla propria casa, sia le **possibilità di occupare qualsiasi posto libero ricevendo adesioni**. Il fatto di **non dover per forza offrire un letto** avrebbe permesso loro di ospitare in **qualsiasi momento** essendo più **semplice** avere un **divano disponibile o un posto per un sacco a pelo**;
 
 
 Questi per Luca erano i 5 motivi principali per cui il suo nuovo amico avesse condiviso la sua casa su Lensooni. 
