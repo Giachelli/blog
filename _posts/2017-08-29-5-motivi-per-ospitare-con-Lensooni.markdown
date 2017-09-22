@@ -7,7 +7,7 @@ excerpt: "Nei giorni seguenti l'aver alloggiato a Torino da Marco..."
 categories: business
 tags:  viaggi
 image:
-  feature: post2.png
+  feature: post2_new.png
   topPosition: 0px
 bgContrast: light 
 bgGradientOpacity: lighter
