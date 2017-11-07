@@ -7,7 +7,7 @@ excerpt: "Luca è uno studente universitario che studia a Bologna e che nel week
 categories: business
 tags:  viaggio
 image:
-  feature: prova.png
+  feature: post1-min.png
   topPosition: 0px
 bgContrast: light
 bgGradientOpacity: lighter
