@@ -14,83 +14,93 @@ bgGradientOpacity: lighter
 syntaxHighlighter: no
 ---
 
-Hi guys! Oggi parliamo di come poter condividere il vostro posto su Lensooni!
-Prima, però, facciamo una premessa. E' importante che voi sappiate che stiamo lavorando affinché questo processo diventi molto più automatico e intuitivo rispetto quello che facciamo ora. Adesso, però, per noi è fondamentale che questo servizio venga utilizzato e che la sua popolarità non poggi perforza sulla presenza o meno di una piattaforma.
+Hi guys! Oggi parliamo di **come poter condividere il vostro posto su Lensooni**! Prima, però, facciamo una **premessa**. <br> E' importante che voi sappiate che stiamo lavorando affinché questo processo diventi molto più automatico e intuitivo rispetto quello che facciamo ora. Adesso, però, per noi è **fondamentale** che questo servizio **venga utilizzato** e che la sua popolarità non poggi per forza sulla presenza o meno di una **piattaforma**.
 
-Detto questo, entriamo nello scopo di questo articolo!
+Detto questo, **entriamo nello scopo di questo articolo**!
 
-Potete condividere la vostra casa su Lensooni tramite due canali:
-1. via mail, scrivendo all'indirizzo info@lensooni.it;
-2. via facebook, scrivendo alla pagina Lensooni;  -> qua ci devo mettere lo screen della pagina;
+**Potete condividere** la vostra casa su Lensooni **tramite due canali**:
+1. **via mail**, scrivendo all'indirizzo **[info@lensooni.it](mailto:info@lensooni.it)**
+2. **via facebook**, scrivendo alla pagina **[Lensooni](https://www.facebook.com/Lensooni-463223930826596/?modal=admin_todo_tour)**
 
-Sia per mail, sia per Facebook, il contenuto del messaggio deve essere il seguente:
-1. il nome di chi ospita;
-2. la città in cui si trova la casa;
-3. 2 foto della casa (quelle che si ritengono più significative, a discrezione dell'ospitante);
-4. posto/i da condividere (i posti da condividere sono: letto, divano o posto per terra. Si guardi l'esempio per capire come può funzionare oppure vicino al posto si può mettere quanto è disponibile: ex: letto, non sempre disponibile; divano, sempre disponibile;);
-5. data di disponibilità (o una data specifica per cui si vuole condividere oppure si può anche scrivere "sempre" per essere sempre disponibili ad ospitare);
-6. tag che identifica la casa;
-7. prezzo per posto (ex: Letto: 15€; Divano: 10€; Posto a terra: 5€)*;
-8. quanti coinquilini siamo.
+**Sia per mail, sia per Facebook**, il **contenuto del messaggio** deve essere il seguente:
+1. **il nome di chi ospita**
+2. **la città** in cui si trova la casa
+3. **2 foto della casa** (quelle che si ritengono più significative, a discrezione dell'ospitante)
+4. **posto/i da condividere** (i posti da condividere sono: letto, divano o posto per terra. Si guardi l'esempio per capire come può funzionare)
+5. **data di disponibilità** (o una **data specifica per cui si vuole condividere** oppure si può anche **scrivere "sempre" per essere sempre disponibili** ad ospitare)
+6. **tag che identifica la casa**
+7. **prezzo per posto** (ex: Letto: **15€**; Divano: **10€**; Posto a terra: **5€**);
+8. **quanti coinquilini siamo**
 
-Questo deve essere il contenuto della mail!
+**Questo deve essere il contenuto della mail!**
 
 
-Una volta che la tua casa è sul sito, i viaggiatori possono visualizzarla e, nel caso in cui fossero interessati, contattarti per richiedere di occupare il posto (dopo che Lensooni gli ha fornito il tuo contatto, per maggiori chiarimenti visita www.lensooni.it/blog/come-posso-prenotare-il-posto).
+Una volta che la tua casa è sul sito, **i viaggiatori possono visualizzarla e**, nel caso in cui fossero interessati, **contattarti per richiedere di occupare il posto** (**dopo che Lensooni gli ha fornito il tuo contatto**, per maggiori chiarimenti visita **[Come posso prenotare il posto](www.lensooni.it/blog/come-posso-prenotare-il-posto)**).
 
-Se tutto va a buon fine e vi accordate definitivamente, allora poi devi scrivere una mail o un messaggio a Lensooni con scritto:
+**Se tutto va a buon fine e vi accordate definitivamente**, allora **devi scrivere una mail o un messaggio a Lensooni** con scritto:
 
-"Ciao Lensooni, sono NOME COGNOME e mi sono accordato con NOME VIAGGIATORE per la prenotazione di POSTO nella casa con codice identificativo CODICE IDENTIFICATIVO nel periodo che va da PERIODO" (nel caso si scriva per messaggio fb, vicino a NOME COGNOME mettere anche MAIL UNIVERSITARIA)
+***
 
-N.B: Il PERIODO va inserito dal giorno di arrivo al giorno in cui l'ospite lascia la casa.
+_Ciao Lensooni, sono **NOME COGNOME** e mi sono accordato con **NOME VIAGGIATORE** per la prenotazione di **POSTO** nella casa con codice identificativo **CODICE IDENTIFICATIVO** nel periodo che va da **PERIODO**_ 
 
-A questo punto, sul sito quel posto in quella casa risulterà occupato e i visitatori, che intendono viaggiare, non potranno usufruirne fino a che non torna disponibile.
+***
 
-Facciamo un esempio così da rendere chiara sia la struttura del messaggio di iscrizione della casa sia la struttura del messaggio da inviare a Lensooni post accordo con il viaggiatore:
+**N.B**: 
+1. il **PERIODO** va inserito **dal giorno di arrivo al giorno in cui l'ospite lascia la casa**
+2. nel caso si scriva per messaggio fb, **vicino a NOME COGNOME mettere anche MAIL UNIVERSITARIA**
+3. nel caso si scriva per mail, **l'oggetto deve essere**: _Condivisione casa con cod.id. **CODICE IDENTIFICATIVO**_
+4. nel caso in cui, dopo aver segnato la casa, **volessi aggiungere o rimuovere un posto**, puoi farlo mandando un **messaggio** o una **mail**!
 
-Esempio struttura del messaggio di iscrizione:
+A questo punto, sul sito quel posto in quella casa **risulterà occupato** e i **visitatori**, che intendono viaggiare, **non potranno usufruirne fino a che non torna disponibile**.
 
-"Ciao Lensooni, questa è il mio messaggio di condivisione.
+Facciamo **un esempio** così da rendere chiara sia la **struttura del messaggio di iscrizione della casa** sia la **struttura del messaggio da inviare a Lensooni post accordo con il viaggiatore**:
 
-1. Luigi;
-2. Bologna;
-3. (2 foto della casa)
-4. 1 Letto, 1 divano, 3 posti per terra (il letto non sempre è disponibile mentre il divano e i posti per terra si);
-5. sempre;
-6. tranquilla, accogliente, relax, vino, musica;
-7. Letto:15€, 
-   Divano:10€,
-   Posto a terra:5€ (a posto);
-8. 4;
-"
+#### Esempio struttura del messaggio di iscrizione:
 
-N.B: Luigi, nel punto 5, avrebbe potuto mettere anche una data specifica per cui rendeva disponibili questi posti (anziché sempre) omettendo il contenuto tra parentesi nel punto 4.
+>Ciao Lensooni, questo è il mio messaggio di condivisione.
+>
+>1. Luigi
+>2. Bologna
+>3. (2 foto della casa)
+>4. 1 Letto, 1 divano, 3 posti per terra (il letto non sempre è disponibile mentre il divano e i posti per terra si)
+>5. sempre
+>6. tranquilla, accogliente, relax, vino, musica
+>7. Letto:15€, 
+>   Divano:10€,
+>   Posto a terra:5€ (a posto)
+>8. quattro
 
-Esempio struttura del messaggio post accordo:
 
-"Ciao Lensooni, sono Luigi Rossi e mi sono accordato con Marco Belisari per la prenotazione di un letto nella casa con codice identificativo BO01 nel periodo che va da 22/11/2017 a 24/11/2017"
+**N.B: Luigi, nel punto 5, avrebbe potuto mettere anche una data specifica per cui rendeva disponibili questi posti (anziché sempre) omettendo il contenuto tra parentesi nel punto 4**.
 
-/* Nel caso la tua casa fosse occupata, i visitatori del sito vedranno su di essa la scritta "OCCUPATA" così da non poter prenotare. Nel caso in cui dopo aver segnato la casa, volessi aggiungere o rimuovere un posto puoi farlo mandando un messaggio o una mail! */
+#### Esempio struttura del messaggio post accordo:
 
-Ricapitoliamo velocemente:
+>Ciao Lensooni, sono Luigi Rossi e mi sono accordato con Marco Belisari per la prenotazione di un letto nella casa con codice identificativo BO01 nel periodo che va da 22/11/2017 a 24/11/2017
 
-1. per poter condividere la tua casa (rendere disponibile il tuo posto) puoi mandare una mail a info@lensooni.it o un messaggio Facebook alla pagina Lensooni con le seguenti informazioni:
-    1. il nome di chi ospita;
-	2. la città in cui si trova la casa;
-	3. 2 foto della casa (quelle che si ritengono più significative, a discrezione dell'ospitante);
-	4. posto/i da condividere;
-	5. data di disponibilità (o una data specifica per cui si vuole condividere oppure si può anche scrivere "sempre" per essere sempre disponibili ad ospitare);
-	6. tag che identifica la casa;
-	7. prezzo per posto;
-	8. quanti coinquilini siamo;
+#### Ricapitoliamo velocemente:
+---
 
-2. Fatto questo, la tua casa verrà pubblicata su Lensooni. A te non resta che aspettare che qualcuno ti contatti.
+1. per **poter condividere la tua casa** (rendere disponibile il tuo posto) **puoi mandare una mail a [info@lensooni.it](mailto:info@lensooni.it) o un messaggio Facebook [alla pagina Lensooni](https://www.facebook.com/Lensooni-463223930826596/?modal=admin_todo_tour)** con le seguenti informazioni:
+    1. **il nome di chi ospita**
+    2. **la città in cui si trova la casa**
+    3. **2 foto della casa** (quelle che si ritengono più significative, a discrezione dell'ospitante)
+    4. **posto/i da condividere**
+    5. **data di disponibilità** (o una data specifica per cui si vuole condividere oppure si può anche scrivere "sempre" per essere sempre disponibili ad ospitare)
+	6. **tag che identifica la casa**
+	7. **prezzo per posto**
+	8. **quanti coinquilini siamo**
 
-3. Una volta accordato con il viaggiatore, comunicare a Lensooni tramite mail o messaggio fb quando il posto sarà occupato tramite il messaggio:
-"Ciao Lensooni, sono NOME COGNOME e mi sono accordato con NOME VIAGGIATORE per la prenotazione di POSTO nella mia casa con codice identificativo CODICE IDENTIFICATIVO nel periodo che va PERIODO"
+2. **Fatto questo**, la tua casa verrà **pubblicata su Lensooni**. A te non resta che **aspettare che qualcuno ti contatti**.
 
-...vedi? Nulla di complicato!
+3. Una volta accordato con il viaggiatore, **comunicare a Lensooni tramite** [mail](mailto:info@lensooni.it) o [messaggio fb](https://www.facebook.com/Lensooni-463223930826596/?modal=admin_todo_tour) **quando il posto sarà occupato** tramite il messaggio:
+
+
+_Ciao Lensooni, sono **NOME COGNOME** e mi sono accordato con **NOME VIAGGIATORE** per la prenotazione di **POSTO** nella mia casa con codice identificativo **CODICE IDENTIFICATIVO** nel periodo che va **PERIODO**_
+
+---
+
+...vedi? **Nulla di complicato**!
 
 ### Cosa aspetti a condividere la tua casa?
 
-Vai su www.lensooni.it, iscriviti e prepara il messaggio per la condivisione!
+Vai su [www.lensooni.it](http://www.lensooni.it), **iscriviti** e **prepara il messaggio per la condivisione**!
