@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Capitolo I. <br> Come funziona Lensooni"
-date:   2017-11-11 18.00.00
-last_modified_at:  2017-11-12 12:33:00
+date:   2017-10-21 18.00.00
+last_modified_at:  2017-10-22 12:33:00
 excerpt: "Luca è uno studente universitario che studia a Bologna e che nel weekend..."
 categories: business
 tags:  viaggio
@@ -27,4 +27,4 @@ Nonostante l'esperienza di viaggio di Luca sia finita, siamo sicuri che una **nu
 
 ### E tu, cosa aspetti a partire?  
 
-**Iscriviti** alla **newsletter** alla pagina [www.lensooni.it](http://www.lensooni.it) per **cominciare ad utilizzare** Lensooni!
+**Iscriviti** a [www.lensooni.it](http://www.lensooni.it) per **cominciare ad utilizzare** Lensooni ed **entrare a far parte della community**!

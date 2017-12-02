@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Capitolo II. <br> 5 motivi per ospitare con Lensooni"
-date:   2017-11-19 20:00:00
-last_modified_at:  2017-11-19 19:30:00
+date:   2017-10-29 20:00:00
+last_modified_at:  2017-10-29 19:30:00
 excerpt: "Nei giorni seguenti l'aver alloggiato a Torino da Marco..."
 categories: business
 tags:  viaggi
