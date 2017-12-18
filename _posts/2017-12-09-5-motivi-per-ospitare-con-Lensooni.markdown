@@ -4,7 +4,7 @@ title:  "Capitolo II. 5 motivi per ospitare con Lensooni"
 date:   2017-12-09 20:00:00
 last_modified_at:  2017-12-10 19:30:00
 excerpt: "Nei giorni seguenti l'aver alloggiato a Torino da Marco..."
-categories: business
+categories: viaggi
 tags:  viaggi
 image:
   feature: post2.png
@@ -19,7 +19,7 @@ Dopo una lunga riflessione, ha individuato i **5 motivi principali** che hanno 
 
 <div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/liquidità_1-min.png);"></div>
 
-E già, è proprio così: la **divisione delle spese** che dei coinquilini devono sostenere: affitto mensile, condominio, elettricità, gas e tasse varie rendono complicato l’arrivo a fine a mese .  Ma c’è un modo **per ridurre queste spese**? Con **Lensooni**, Marco e i suoi coinquilini si sono assicurati, anche se per poco tempo, un "coinquilino" che gli ha permesso di ripartire le spese in più persone.
+E già, è proprio così: la **divisione delle spese** che dei coinquilini devono sostenere: affitto mensile, condominio, elettricità, gas e tasse varie rendono complicato l’arrivo a fine a mese .  Ma c’è un modo **per ridurre queste spese**? Con **Lensooni**, Marco e i suoi coinquilini si sono assicurati, anche se per poco tempo, un "coinquilino" che gli ha permesso di ripartire le spese in più persone;
 
 <div class="img_1 img_1--fullContainer img--Leading" style="background-image: url(./assets/images/nuovaconoscenza_1-min.png);"></div>
 
