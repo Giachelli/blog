@@ -22,15 +22,15 @@ Detto questo, **entriamo nel vivo di questo articolo**!
 
 #### Primo passaggio
 
-iscriversi a [www.lensooni.it](http://www.lensooni.it)
+**Iscriversi** a [www.lensooni.it](http://www.lensooni.it)
 
 #### Secondo passaggio
 
-andare alla pagina [Iscrivi casa](https://www.lensooni.it/iscrizione-casa/) e **compilare il form**
+**Andare alla pagina** [Iscrivi casa](https://www.lensooni.it/iscrizione-casa/) e **compilare il form**
 
 #### Terzo passaggio
 
-cliccare il bottone **INVIA** e **ricordarsi di allegare due foto alla mail che si apre**
+**Cliccare** il bottone **INVIA** e **ricordarsi di allegare due foto alla mail che si apre**
 
 **N.B: se sei con un dispositivo mobile e usi Chrome come browser, vai direttamente in fondo alla pagina** [Iscrivi casa](https://www.lensooni.it/iscrizione-casa/)
 
